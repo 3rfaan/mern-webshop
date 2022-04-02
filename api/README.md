@@ -1,3 +1,3 @@
-# 3rfaan.github.io
-# mern-webshop
-# mern-webshop
+# MERN Webshop API
+
+## Description
